@@ -1,0 +1,6 @@
+ClientID,ClientName,PriorityLevel,RequestedTaskIDs,GroupTag,AttributesJSON
+C001,TechCorp Solutions,5,"T001,T002,T003",Technology,"{""industry"": ""Technology"", ""location"": ""San Francisco"", ""contactPerson"": ""John Smith"", ""projectValue"": 500000}"
+C002,Global Manufacturing,4,"T004,T005",Manufacturing,"{""industry"": ""Manufacturing"", ""location"": ""Chicago"", ""contactPerson"": ""Sarah Johnson"", ""projectValue"": 750000}"
+C003,Healthcare Systems,3,"T006,T007",Healthcare,"{""industry"": ""Healthcare"", ""location"": ""Boston"", ""contactPerson"": ""Dr. Michael Brown"", ""projectValue"": 300000}"
+C004,Financial Services Inc,5,"T008,T009,T010",Finance,"{""industry"": ""Finance"", ""location"": ""New York"", ""contactPerson"": ""Lisa Davis"", ""projectValue"": 1000000}"
+C005,Retail Solutions,2,"T011",Retail,"{""industry"": ""Retail"", ""location"": ""Los Angeles"", ""contactPerson"": ""Robert Wilson"", ""projectValue"": 200000}" 

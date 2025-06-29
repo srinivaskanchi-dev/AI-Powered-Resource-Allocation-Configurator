@@ -1,0 +1,12 @@
+TaskID,TaskName,Category,Duration,RequiredSkills,PreferredPhases,MaxConcurrent
+T001,Frontend Dashboard Development,Development,5,"JavaScript,React","[1,2,3]",2
+T002,API Integration,Development,3,"Node.js,API Testing","[2,3,4]",1
+T003,Database Optimization,Development,4,"SQL,Data Analysis","[1,3,5]",1
+T004,Backend Service Creation,Development,6,"Java,Spring Boot","[2,4,6]",2
+T005,Microservices Architecture,Development,8,"Java,Microservices","[3,4,5]",1
+T006,DevOps Pipeline Setup,Infrastructure,4,"DevOps,Docker","[1,2,3]",1
+T007,UI/UX Design System,Design,3,"UI/UX Design,Figma","[1,2]",1
+T008,Data Analysis Report,Analysis,2,"Python,Data Analysis","[1,2,3]",2
+T009,Performance Testing,Testing,3,"Testing,Performance","[2,3,4]",1
+T010,Security Audit,Security,4,"Security,Auditing","[1,2,3,4]",1
+T011,Documentation Update,Documentation,1,"Documentation,Writing","[1,2,3,4,5]",3 
